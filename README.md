@@ -1,5 +1,5 @@
 ### Welcome to my profile xD
-I'm PANCHO7532, the most simplest of the guys that you'll find around there
+I'm PANCHO7532, the most normal of the guys that you'll find around there
 
 ### What you will find here
 This GitHub profile is probably my entire portfolio containing every "serious" project that i programmed in my life
