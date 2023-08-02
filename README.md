@@ -13,8 +13,8 @@ I'm more of a javascript guy as you may see in the chart up there, but i'm alway
 
 ### _XCg6RCkvCg==_
 So, GitHub gave me some ideas to put into here until i get better ideas, here we go
-- I’m currently working on doing Telegram bots and network researchs
+- I’m currently working on doing reverse engineering, game development and network research
 - I’m currently learning Java and C++
 - How to reach me: [Telegram](https://t.me/PANCHO7532)
 - Pronouns: he/him
-- Slightly fun fact: I haven't used an emoji since 7 years probably, i kinda hate them.
+- Slightly fun fact: I haven't used an emoji since 9 years probably, i kinda hate them.
