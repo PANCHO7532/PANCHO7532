@@ -9,7 +9,7 @@ I'm still learning stuff, so, sorry for possible spaghetti around there
 ### Most used programming languages
 ![xd](https://github-readme-stats.vercel.app/api/top-langs/?username=PANCHO7532&layout=compact)
 
-I'm more of a javascript guy as you may see in the chart up there, but i'm always open to learn new stuff about any programming language (except Python)
+I'm more of a javascript guy, but i'm always open to learn new stuff about any programming language (except Python)
 
 ### _XCg6RCkvCg==_
 So, GitHub gave me some ideas to put into here until i get better ideas, here we go
