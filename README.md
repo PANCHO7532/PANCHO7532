@@ -4,6 +4,8 @@ I'm PANCHO7532, the most normal of the guys that you'll find around there
 ### What you will find here
 This GitHub profile is probably my entire portfolio containing every "serious" project that i programmed in my life
 
+You can also check my GitLab profile [here](https://gitlab.com/PANCHO7532), it serves as a backup just in case my profile gets mysteriously nuked to the stratosphere
+
 I'm still learning stuff, so, sorry for possible spaghetti around there
 
 ### Most used programming languages
@@ -13,8 +15,10 @@ I'm more of a javascript guy, but i'm always open to learn new stuff about any p
 
 ### _XCg6RCkvCg==_
 So, GitHub gave me some ideas to put into here until i get better ideas, here we go
-- I’m currently working on doing reverse engineering, game development and network research
-- I’m currently learning Java and C++
+- I’m currently working on doing reverse engineering, game development/modding and network research
+- I’m currently learning C++ and Java
 - How to reach me: [Telegram](https://t.me/PANCHO7532)
 - Pronouns: he/him
-- Slightly fun fact: I haven't used an emoji since 9 years probably, i kinda hate them.
+- Slightly fun facts about me:
+  1) I haven't used an emoji since 11 years probably, i kinda hate them.
+  2) ?
