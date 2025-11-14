@@ -25,5 +25,5 @@ So, GitHub gave me some ideas to put into here until i get better ideas, here we
 - Pronouns: he/him
 - Slightly fun facts about me:
   1) I haven't used an emoji since 11 years probably, i kinda hate them.
-  2) I unironically used a Windows XP machine for 5 months as my daily driver (you guys lied to me it wasn't a health hazard as you make it seem)
+  2) I unironically used a Windows XP machine for 5 months as my daily driver and development machine (you guys lied to me it wasn't a health hazard as you make it seem)
   3) ?
