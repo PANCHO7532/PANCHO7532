@@ -1,4 +1,4 @@
-### Welcome to my profile xD
+### Welcome to my profile!
 I'm PANCHO7532, the most normal of the guys that you'll find around there
 
 ### What you will find here
@@ -19,11 +19,13 @@ I'm more of a javascript guy, but i'm always open to learn new stuff about any p
 
 ### _XCg6RCkvCg==_
 So, GitHub gave me some ideas to put into here until i get better ideas, here we go
-- I’m currently working on doing reverse engineering, game development/modding and network research
+- I’m currently working on doing reverse engineering, game development/modding and network research/pentesting
 - I’m currently learning C++ and Java
 - How to reach me: [Telegram](https://t.me/PANCHO7532)
 - Pronouns: he/him
 - Slightly fun facts about me:
   1) I haven't used an emoji since 11 years probably, i kinda hate them.
   2) I unironically used a Windows XP machine for 5 months as my daily driver and development machine (you guys lied to me it wasn't a health hazard as you make it seem)
-  3) ?
+  3) I love studying cryptography stuff on my free time, there's something really mystical about it, even if I don't get yet the cursed math behind it yet
+  4) I like lizards
+  5) ?
