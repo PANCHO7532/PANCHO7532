@@ -27,6 +27,6 @@ So, GitHub gave me some ideas to put into here until i get better ideas, here we
   1) I haven't used an emoji since 11 years probably, i kinda hate them.
   2) I unironically used a Windows XP machine for 5 months as my daily driver and development machine (you guys lied to me it wasn't a health hazard as you make it seem)
   3) I love studying cryptography stuff on my free time, there's something really mystical about it, even if I don't get yet the cursed math behind it yet
-  4) I forgot what the xor key was for the base64 string displayed on this page, if you happen to find it let me know via [an issue](https://github.com/PANCHO7532/PANCHO7532/issues) :)
+  4) I forgot what the xor key was for the base64 string displayed on this page, if you happen to find it let me know via [an issue](https://github.com/PANCHO7532/PANCHO7532/issues) (no, i can't remember what the original text said) :)
   5) I like lizards
   6) ?
